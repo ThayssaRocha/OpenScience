@@ -1,2 +1,2 @@
 # OpenScience
-Repository dedicated to share my research artifacts
+Repository dedicated to share my research artifacts.
